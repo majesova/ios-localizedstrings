@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  LocalizableStrings
+
+  Created by Plenumsoft on 08/11/17.
+  Copyright © 2017 Majesova. All rights reserved.
+*/
+//app
+"app.bienvenido" = "Welcome human!";
+"app.hola" = "Hello %@, nice to salute you";
+"app.option.guardar" = "Save";
+
+//app messsages
+"app.message.success" = "Record succesfully created";
+"app.message.failed" = "An error has happened";
+
+//alert
+"alert.title.aceptar" = "Accept";
+"alert.title.cancelar" = "Cancel";
+"alert.title.confirmar" = "Confirm";
+
+//usuario
+"usuario.nombre" = "Name";
+"usuario.apellido" = "LastName";

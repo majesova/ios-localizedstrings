@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Nombre"; ObjectID = "DBB-vI-u66"; */
+"DBB-vI-u66.text" = "Nombre";
+
+/* Class = "UILabel"; text = "Apellido"; ObjectID = "UYy-jb-6ws"; */
+"UYy-jb-6ws.text" = "Apellido";
+
+/* Class = "UIButton"; normalTitle = "Cheers!"; ObjectID = "Wcu-7O-CCa"; */
+"Wcu-7O-CCa.normalTitle" = "Cheers!";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "rbK-Yz-pEF"; */
+"rbK-Yz-pEF.text" = "Welcome";
